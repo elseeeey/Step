@@ -1,0 +1,53 @@
+C:\Users\User\source\repos\Homework 18.11.2019\Homework 18.11.2019\obj\Debug\Homework 18.11.2019.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Homework 18.11.2019\Homework 18.11.2019\obj\Debug\Window1.g.cs
+C:\Users\User\source\repos\Homework 18.11.2019\Homework 18.11.2019\obj\Debug\Window2.g.cs
+C:\Users\User\source\repos\Homework 18.11.2019\Homework 18.11.2019\obj\Debug\App.g.cs
+C:\Users\User\source\repos\Homework 18.11.2019\Homework 18.11.2019\obj\Debug\Homework 18.11.2019_MarkupCompile.cache
+C:\Users\User\source\repos\Homework 18.11.2019\Homework 18.11.2019\obj\Debug\Homework 18.11.2019_MarkupCompile.lref
+C:\Users\User\source\repos\Homework 18.11.2019\Homework 18.11.2019\obj\Debug\MainWindow.g.cs
+C:\Users\User\source\repos\Homework 18.11.2019\Homework 18.11.2019\bin\Debug\Homework 18.11.2019.exe.config
+C:\Users\User\source\repos\Homework 18.11.2019\Homework 18.11.2019\bin\Debug\Homework 18.11.2019.exe
+C:\Users\User\source\repos\Homework 18.11.2019\Homework 18.11.2019\bin\Debug\Homework 18.11.2019.pdb
+C:\Users\User\source\repos\Homework 18.11.2019\Homework 18.11.2019\obj\Debug\MainWindow.baml
+C:\Users\User\source\repos\Homework 18.11.2019\Homework 18.11.2019\obj\Debug\Window1.baml
+C:\Users\User\source\repos\Homework 18.11.2019\Homework 18.11.2019\obj\Debug\Window2.baml
+C:\Users\User\source\repos\Homework 18.11.2019\Homework 18.11.2019\obj\Debug\Homework 18.11.2019.g.resources
+C:\Users\User\source\repos\Homework 18.11.2019\Homework 18.11.2019\obj\Debug\Homework_18._11._2019.Properties.Resources.resources
+C:\Users\User\source\repos\Homework 18.11.2019\Homework 18.11.2019\obj\Debug\Homework 18.11.2019.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Homework 18.11.2019\Homework 18.11.2019\obj\Debug\Homework 18.11.2019.exe
+C:\Users\User\source\repos\Homework 18.11.2019\Homework 18.11.2019\obj\Debug\Homework 18.11.2019.pdb
+C:\Users\Vlad Karnafel\Downloads\Homework 18.11.2019 (1)\Homework 18.11.2019\Homework 18.11.2019\bin\Debug\Homework 18.11.2019.exe.config
+C:\Users\Vlad Karnafel\Downloads\Homework 18.11.2019 (1)\Homework 18.11.2019\Homework 18.11.2019\bin\Debug\Homework 18.11.2019.exe
+C:\Users\Vlad Karnafel\Downloads\Homework 18.11.2019 (1)\Homework 18.11.2019\Homework 18.11.2019\bin\Debug\Homework 18.11.2019.pdb
+C:\Users\Vlad Karnafel\Downloads\Homework 18.11.2019 (1)\Homework 18.11.2019\Homework 18.11.2019\obj\Debug\Homework 18.11.2019.csprojAssemblyReference.cache
+C:\Users\Vlad Karnafel\Downloads\Homework 18.11.2019 (1)\Homework 18.11.2019\Homework 18.11.2019\obj\Debug\MainWindow.g.cs
+C:\Users\Vlad Karnafel\Downloads\Homework 18.11.2019 (1)\Homework 18.11.2019\Homework 18.11.2019\obj\Debug\Window1.g.cs
+C:\Users\Vlad Karnafel\Downloads\Homework 18.11.2019 (1)\Homework 18.11.2019\Homework 18.11.2019\obj\Debug\Window2.g.cs
+C:\Users\Vlad Karnafel\Downloads\Homework 18.11.2019 (1)\Homework 18.11.2019\Homework 18.11.2019\obj\Debug\App.g.cs
+C:\Users\Vlad Karnafel\Downloads\Homework 18.11.2019 (1)\Homework 18.11.2019\Homework 18.11.2019\obj\Debug\Homework 18.11.2019_MarkupCompile.cache
+C:\Users\Vlad Karnafel\Downloads\Homework 18.11.2019 (1)\Homework 18.11.2019\Homework 18.11.2019\obj\Debug\Homework 18.11.2019_MarkupCompile.lref
+C:\Users\Vlad Karnafel\Downloads\Homework 18.11.2019 (1)\Homework 18.11.2019\Homework 18.11.2019\obj\Debug\MainWindow.baml
+C:\Users\Vlad Karnafel\Downloads\Homework 18.11.2019 (1)\Homework 18.11.2019\Homework 18.11.2019\obj\Debug\Window1.baml
+C:\Users\Vlad Karnafel\Downloads\Homework 18.11.2019 (1)\Homework 18.11.2019\Homework 18.11.2019\obj\Debug\Window2.baml
+C:\Users\Vlad Karnafel\Downloads\Homework 18.11.2019 (1)\Homework 18.11.2019\Homework 18.11.2019\obj\Debug\Homework 18.11.2019.g.resources
+C:\Users\Vlad Karnafel\Downloads\Homework 18.11.2019 (1)\Homework 18.11.2019\Homework 18.11.2019\obj\Debug\Homework_18._11._2019.Properties.Resources.resources
+C:\Users\Vlad Karnafel\Downloads\Homework 18.11.2019 (1)\Homework 18.11.2019\Homework 18.11.2019\obj\Debug\Homework 18.11.2019.csproj.GenerateResource.cache
+C:\Users\Vlad Karnafel\Downloads\Homework 18.11.2019 (1)\Homework 18.11.2019\Homework 18.11.2019\obj\Debug\Homework 18.11.2019.csproj.CoreCompileInputs.cache
+C:\Users\Vlad Karnafel\Downloads\Homework 18.11.2019 (1)\Homework 18.11.2019\Homework 18.11.2019\obj\Debug\Homework 18.11.2019.exe
+C:\Users\Vlad Karnafel\Downloads\Homework 18.11.2019 (1)\Homework 18.11.2019\Homework 18.11.2019\obj\Debug\Homework 18.11.2019.pdb
+C:\Users\Vlad Karnafel\Downloads\Homework 18.11.2019 (1)\Homework 18.11.2019\Homework 18.11.2019\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\Vlad Karnafel\Downloads\Homework 18.11.2019 (1)\Homework 18.11.2019\Homework 18.11.2019\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\Vlad Karnafel\Downloads\Homework 18.11.2019 (1)\Homework 18.11.2019\Homework 18.11.2019\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\Vlad Karnafel\Downloads\Homework 18.11.2019 (1)\Homework 18.11.2019\Homework 18.11.2019\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\Vlad Karnafel\Downloads\Homework 18.11.2019 (1)\Homework 18.11.2019\Homework 18.11.2019\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\Vlad Karnafel\Downloads\Homework 18.11.2019 (1)\Homework 18.11.2019\Homework 18.11.2019\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Vlad Karnafel\Downloads\Homework 18.11.2019 (1)\Homework 18.11.2019\Homework 18.11.2019\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Vlad Karnafel\Downloads\Homework 18.11.2019 (1)\Homework 18.11.2019\Homework 18.11.2019\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Vlad Karnafel\Downloads\Homework 18.11.2019 (1)\Homework 18.11.2019\Homework 18.11.2019\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Vlad Karnafel\Downloads\Homework 18.11.2019 (1)\Homework 18.11.2019\Homework 18.11.2019\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Vlad Karnafel\Downloads\Homework 18.11.2019 (1)\Homework 18.11.2019\Homework 18.11.2019\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Vlad Karnafel\Downloads\Homework 18.11.2019 (1)\Homework 18.11.2019\Homework 18.11.2019\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Vlad Karnafel\Downloads\Homework 18.11.2019 (1)\Homework 18.11.2019\Homework 18.11.2019\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Vlad Karnafel\Downloads\Homework 18.11.2019 (1)\Homework 18.11.2019\Homework 18.11.2019\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Vlad Karnafel\Downloads\Homework 18.11.2019 (1)\Homework 18.11.2019\Homework 18.11.2019\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Vlad Karnafel\Downloads\Homework 18.11.2019 (1)\Homework 18.11.2019\Homework 18.11.2019\obj\Debug\Homework 18.11.2019.csproj.CopyComplete
